@@ -1,2 +1,2 @@
 # Coding
-Practice problems in Java, python, javascript and derive solutions
+This repository is created to maintain my code samples using Python and Data structures.
