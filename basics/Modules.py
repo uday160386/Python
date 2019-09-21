@@ -1,5 +1,5 @@
-import IterationStatements
-from TestClass import Student
+from basics import IterationStatements
+from basics.TestClass import Student
 
 print(IterationStatements.power_of_number(10, 20))
 
