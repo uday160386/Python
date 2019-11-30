@@ -1,5 +1,5 @@
 import unittest
-import programs.Factorial as fact
+import apps.factorial as fact
 
 
 class TestFactorial(unittest.TestCase):
